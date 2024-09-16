@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanishka-m
-- 👀 I am well acquainted in HTML, CS, JS, C, C++, JAVA
+- 👀 I am well acquainted in HTML, CSS, JS, C, C++, JAVA
 - 🌱 I’m currently exploring complex problems on DSA, enjoy solving problems based on it
 
 <!---
